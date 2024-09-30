@@ -1,0 +1,9 @@
+Name,Type,Dominant Color,Mass (10^23kg),Radius (10km),Density (g/cm^3),Surface Gravity (m/s^2),Escape Velocity (km/s),Mean Temperature (�C),Surface Pressure (Pa),Albedo,Rotation Period (hours),Axial Tilt (degrees),Moons,Orbital Period (days),Orbital Distance (AU),Eccentricity,Inclination (degrees),Aphelion (AU),Perihelion (AU),Geological Activity,Ring System,Magnetic Field Strength,Greenhouse Effect,Maximum Wind Speed (km/h),Average Distance from the Sun (million km),Surface Characteristics,Most Abundant Element
+Mercury,Terrestrial,Grey Brown,3.30 ,"2439.70",5.43,3.7,4.25,167,0,0.12,1407.6,0.034,0,88,0.39,0.206,7,0.466,0.307,FALSE,No,Weak,Minimal,Minimal,57.9,Rocky surface,Iron
+Venus,Terrestrial,Yellow,48.70 ,"6051.80",5.24,8.87,10.36,464,"92000",0.65,5832,177.4,0,225,0.72,0.007,3.4,0.728,0.718,TRUE,No,Weak,Extreme,360,108.2,Rocky surface,Carbon Dioxide
+Earth,Terrestrial,Blue,59.70 ,"6371",5.52,9.81,11.19,15,"101325",0.3,23.9,23.5,1,365.25,1,0.017,0,1.017,0.983,TRUE,No,Strong,Moderate,300,149.6,Diverse surface,Nitrogen
+Mars,Terrestrial,Red,6.42,"3389.50",3.93,3.71,5.03,-65,610,0.25,24.6,25.2,2,687,1.52,0.094,1.9,1.666,1.381,FALSE,No,Weak,Weak,100,227.9,Rocky surface,Iron Oxide
+Jupiter,Gas Giant,Orange Brown,"19000","69911",1.33,24.79,59.5,-110,N/A,0.52,9.9,3.1,92,4333,5.2,0.049,1.3,5.46,4.95,FALSE,Yes,Strong,Minimal,432,778.5,No solid surface,Hydrogen
+Saturn,Gas Giant,Yellow,5680,"58232",0.69,10.44,35.5,-140,N/A,0.47,10.7,26.7,83,10759,9.58,0.056,2.5,10.12,9.05,FALSE,Yes,Strong,Minimal,1800,1430,No solid surface,Hydrogen
+Uranus,Ice Giant,Blue Green,868,"25362",1.27,8.69,21.3,-195,N/A,0.51,17.2,97.8,27,30687,19.22,0.046,0.8,20.11,18.33,FALSE,Yes,Weak,Minimal,900,2870,No solid surface,Hydrogen
+Neptune,Ice Giant,Blue,1020,"24622",1.64,11.15,23.5,-200,N/A,0.41,16.1,28.3,14,60190,30.05,0.01,1.8,30.33,29.81,FALSE,Yes,Strong,Minimal,2100,4500,No solid surface,Hydrogen
